@@ -1,8 +1,3 @@
----
-layout: default
-title: Portfolio
----
-
 # Portfolio
 
 Excel VBAを中心に、業務改善を目的として作成したツールのサンプルを公開しています。
@@ -36,7 +31,7 @@ Excel VBAを中心に、業務改善を目的として作成したツールの�
 - 仕様書
 - 利用者向け取扱説明書
 
-[GitHubでコード・サンプルを見る](YOUR_OPERATION_CHART_REPOSITORY_URL)
+[GitHubでコード・サンプルを見る](https://github.com/dalirurero/operation-chart-vba-sample)
 
 ---
 
@@ -45,9 +40,3 @@ Excel VBAを中心に、業務改善を目的として作成したツールの�
 このページでは、業務上の課題を整理し、Excel VBAなどを利用して改善した事例を、公開可能な形へ加工して掲載しています。
 
 実際の会社名、店舗名、従業員名、商品情報、実績値などは掲載していません。
-
----
-
-## Contact
-
-GitHubプロフィールからご確認ください。
